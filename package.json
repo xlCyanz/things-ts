@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "dev": "yarn tsc",
     "prepare": "husky install"
   },
   "dependencies": {
     "dayjs": "^1.11.6",
-    "project-tasks-scheduling-engine": "^1.1.0",
     "radash": "^10.6.0",
     "typescript": "^4.6.4"
   },
