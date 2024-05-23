@@ -19,3 +19,5 @@ const toWeirdCase = (text: string) => {
 toWeirdCase("Hello World"); // Returns the text with weird case => HeLlO WoRlD
 toWeirdCase("xlCyanz"); // Returns the text with weird case => XlCyAnZ
 toWeirdCase("Codewars"); // Returns the text with weird case => CoDeWaRs
+
+console.log(toWeirdCase("Kiero tene la dicha que tiene el gallo racapushinshin el se sacude jesuuuuu"))
